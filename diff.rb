@@ -15,4 +15,3 @@ end
 
 puts diff(100)
 puts diff(100000)
-puts diff(1000000000)
